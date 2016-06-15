@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Oklahoma Jack Russell Rescue - OJRR]]></title>
         <description><![CDATA[Oklahoma Jack Russell Rescue - OJRR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/okjrtrescue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 21:33:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 15 Jun 2016 18:44:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/okjrtrescue/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to our new site!</p>]]></description>
-            <link>undefined6e06b66b-bae0-4249-874f-8206a51878ee/index.html</link>
+            <description><![CDATA[<p>Welcome to our new site! Available dogs</p>]]></description>
+            <link>https://thegrid.ai/okjrtrescue/6e06b66b-bae0-4249-874f-8206a51878ee/index.html</link>
             <guid isPermaLink="false">6e06b66b-bae0-4249-874f-8206a51878ee</guid>
-            <pubDate>Wed, 02 Mar 2016 21:33:33 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2016 18:44:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
